@@ -1,5 +1,6 @@
-#Omnifood landing page [v1].
+One of my first projects ever. Created it back in 2018 in my first semester of college while doing a course on Udemy.
+I created a one-page landing site for a fictitious food delivery company.
+An extensive front-end project created completely from scratch which uses HTML & CSS only without using any CSS framework like Bootstrap or Material UI
 
-This is a simple one-page website featuring the fictitious Omnifood brand. This is built and taught from a Udemy course [RWD and Development with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/). 
+![Omnifood Website](omnifood.gif)
 
-The site also uses subtle animations using jQuery. Another version will make use of different tools/ languages to enhance the landing page's performance and development time. 
